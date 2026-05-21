@@ -10,6 +10,9 @@ return {
           -- height = 0.9,
         },
       },
+      -- words = {
+      --   enabled = true,
+      -- },
     },
   },
 }

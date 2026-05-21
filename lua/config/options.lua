@@ -4,3 +4,4 @@
 vim.opt.winbar = "%=%m %f"
 vim.opt.undofile = false
 vim.opt.shell = "zsh"
+vim.opt.wrap = true
